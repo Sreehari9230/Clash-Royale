@@ -1,0 +1,292 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+   
+}
+
+.first{
+    width: 1200px;
+    height: 78px;
+    background-color: black;
+    padding-left: 100px;
+    margin-left: 155px;
+    position:fixed;
+    z-index: 1;
+    
+}
+.navlist{
+    color: red;
+    list-style-type: none;
+}
+.navbar img{
+    height: 50px;
+    width: 60px;
+    margin-top: 15px;
+    margin-left: -85px;
+    position:fixed;
+
+    
+}
+.navsettings {
+    color: grey;
+    
+    word-spacing: 20px;
+    padding-top: 25px;
+    padding-left: 20px;
+    
+    
+}
+.navsettings a:hover{
+    color: white;
+}
+#bottom{
+    position:absolute;
+    height: 80%;
+}
+#top{
+    position:relative;
+    width: 20%;
+    margin-left: 600px;
+    margin-top: 118px;
+    
+}
+.pfirst img{
+    margin-top: 400px;
+    margin-left: 165px;
+    height: 75%;
+    width: 38%;
+}
+.pfirst h1{
+    text-transform: uppercase;
+    margin-left: 775px;
+    margin-top: -500px;
+
+
+}
+.pfirst p{
+    margin-left:775px;
+    font-size: 20px;
+    line-height: 1.8;
+}
+.pmone {
+    display: flex;
+    margin-left: 50%;
+    justify-content: start;
+    gap: 10px;
+    
+    padding-left: 0;
+}
+.pmone img{
+    width: 20%;
+}
+.mnone{
+    height: 50px;
+    width: 180px;
+    padding-left: 200px;
+}
+#mpic{
+    height: 50px;
+    width :155px;
+    margin-left: 722px;
+    margin-top: -37px;
+    margin-bottom: 17px;
+    
+    
+}
+
+.third h1{
+    text-align: center;
+    padding-top: 125px;
+}
+.picth1 img {
+    height:auto;
+    width: 38%;
+    margin-left: 165px;
+    margin-top: 40px;
+}
+.picth2 img{
+    height:auto;
+    width: 38%;
+    margin-left: 768px;
+    margin-top: -400px;
+    margin-bottom: 17px;
+}
+.CR1{
+    text-align: center;
+    margin-left: -583px;
+    margin-top: -11px;
+    line-height: 1.2;
+    width: 100%;
+}
+.CR1 h2{
+    color:#fb4a9d;
+}
+.CR2{
+    text-align: center;
+    margin-right: -296px;
+    margin-top: -50px; 
+    width: 100%; 
+}
+.CR2 h2{
+    color:#fb4a9d;
+}
+.button button{
+    color: white;
+    background-color: #2d85f3;
+    margin-left: 691px;
+    margin-top: 60px;
+}
+.xy{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 0px;
+    
+    padding: 0px 100px;
+}
+.xy h2{
+    color: #fb4a9d;
+}
+
+.button button{
+    background-color: #2d85f3;
+    border-radius: 8px;
+    line-height: 20px;
+    border: 0px;
+    padding: 10px 20px;
+}
+.blueback{ 
+    width: 100%;
+    height: 610px;
+    background-size: 100% 100%;
+    margin-top: 40px;
+   
+    background-image: url(bg_gamesocial_clashroyale.04a9aa88.webp);
+    position:relative;
+    
+}
+.upperpic img{
+    height:  542px;
+    width: 565px;
+    margin-left: 172px;
+    margin-top: 70px;
+}
+.text1 h2{
+    margin-top: -329px;
+    margin-left: 780px;
+    font-size: 35px;
+    color: white;
+}
+.text2 p{
+    margin-top: 10px;
+    margin-left: 780px;
+    font-size: 18px;
+    line-height: 1.56;
+    color: white;
+}
+.text3 h3{
+    margin-top: 10px;
+    margin-left: 780px;
+    font-size: 13px;
+    color: white;
+}
+.barb img{
+    height:328px ;
+    width: 583px;
+    margin-left: 163px;
+    margin-top: 76px;
+}
+.arch img{
+    height:328px ;
+    width: 583px;
+    margin-left:55%;
+    margin-top: -400px;
+    margin-bottom: 10px;}
+    
+    .bluebaground{
+        background-color: #2887f0;
+        width: 100%;
+        height: 200px;
+
+    }
+    .mpekka{
+   
+        margin-left: 1000px;
+    
+   
+}
+.backgroundblue{
+    margin-top: 0px;
+    background-color: #2887f0;
+    height: 240px;
+}
+
+.inbut button{
+    background-color:white;
+   margin-left: 404px;
+    border-radius: 8px;
+    line-height: 20px;
+    border: 0px;
+    padding: 10px 20px;
+
+}
+.inbut h1{
+    text-align: left;
+    color: white;
+    margin-left: 200px;
+    margin-top: -275px;
+    
+}
+footer{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+#footer1{
+    color: white;
+    padding-top: 50px;
+    padding-left: 180px;
+
+    
+}
+.imgcr{
+    padding-left: 180px;
+    padding-top: 5px;
+    
+}
+.imgstore{
+    padding-left: 800px;
+    margin-top: -37px; 
+}
+.questions{
+    color: white;
+    font-size: 13px;
+    font-family: SupercellText-Medium,Helvetica,Arial,sans-serif;
+    gap: 20px;
+    display: flex;
+    justify-content: left;
+    padding-left: 12%;
+    padding-top: 3%;
+}
+.credits{
+    color: white;
+    font-size: 14px;
+    margin-top: 70px;
+    margin-left: 180px;
+    line-height: 1.8;
+}
+.super{
+    margin-left: 1200px;
+    margin-top: -30px;
+}
+.navset{
+    display: flex;
+    padding-left: 700px;
+    margin-top: -27px;
+}
+.navset #search{
+    padding-left: 102px;
+}
